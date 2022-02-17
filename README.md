@@ -8,5 +8,7 @@ A developer. A creator. A writer.
 
 :page_facing_up: Résumé: [English résumé](https://github.com/xhdnoah/resume/blob/master/resume.pdf) | [中文简历](https://github.com/xhdnoah/resume/blob/master/resume-zh.pdf)
 
-⚡ Fun fact: I love prime numbers.
+:studio_microphone: checkout my presentation [fp-slide](https://fp-slide.vercel.app/1)
+
+:zap: Fun fact: I love prime numbers.
 
