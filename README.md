@@ -4,7 +4,7 @@
 
 A developer. A creator. A writer.
 
-:pencil2: I’m currently writing [Notebook](https://xuhaidong.notion.site/Notebook-64b1eb7a46384232a788bd5f8e974103)
+:pencil2: I’m currently writing [CS Notebook](https://xuhaidong.notion.site/CS-Notebook-64b1eb7a46384232a788bd5f8e974103)
 
 :page_facing_up: Résumé: [English résumé](https://github.com/xhdnoah/resume/blob/master/resume.pdf) | [中文简历](https://github.com/xhdnoah/resume/blob/master/resume-zh.pdf)
 
